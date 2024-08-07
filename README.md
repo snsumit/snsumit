@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full-Stack Applications And Web3.0 Applications<br>👯 I’m looking to collaborate on Web3.0 Technology<br>🌱 I’m currently learning  Web3.0 and Machine learning<br>💬 Ask me about Data structures , Java , C , C++ , JavaScript <br>
+🔭 I’m currently working on Full-Stack Applications And Web3.0 Applications<br>👯 I’m looking to collaborate on Web3.0 Technology<br>🌱 I’m currently learning  Web3.0 and Andorid Application Development<br>💬 Ask me about Data structures , Java , C , C++ , JavaScript <br>
 
 
 ## 🌐 Socials:
